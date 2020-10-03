@@ -1,5 +1,4 @@
 # cmuapcsp
-## Answers<br/>
 * 3.1.5 Flag of Sweeden <br/>`Rect(50, 100, 300, 200, fill='steelBlue')`<br/>`Rect(50, 180, 300, 40, fill='gold')`<br/>`Rect(140, 100, 40, 200, fill='gold')` 
 * 3.1.5 Flag of Chad <br/>`Rect(50, 100, 100, 200, fill='blue')`<br/>`Rect(150, 100, 100, 200, fill='yellow')`<br/>`Rect(250, 100, 100, 200, fill='red')`
 * 3.1.7 Diamond Pickaxe <br/>`Rect(125, 125, 75, 75, fill=gradient('peru', 'maroon'))`<br/> `Rect(200, 200, 75, 75, fill=gradient('peru', 'maroon'))`<br/> `Rect(275, 275, 75, 75, fill=gradient('peru', 'maroon'))`<br/> `Rect(50, 50, 40, 40, fill=gradient('peru', 'maroon'))` <br/>`Rect(100, 50, 200, 40, fill=gradient('royalBlue', 'deepSkyBlue', 'dodgerBlue', start='top'))`<br/> `Rect(50, 100, 40, 200, fill=gradient('royalBlue', 'deepSkyBlue', 'dodgerBlue', start='left'))`
