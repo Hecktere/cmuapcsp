@@ -18,7 +18,7 @@ goals<br/>
 `Rect(40, 180, 20, 40, fill='white')`<br/>
 `Rect(340, 180, 20, 40, fill='white')`<br/>
 
-* 3.2.3 Sunny Road <br/>
+* 3.2.2 Sunny Road <br/>
 sky<br/>
 `Rect(0, 0, 400, 250, fill=gradient('deepSkyBlue', 'lightSkyBlue', start='top'))`<br/>
 grass<br/>
@@ -49,3 +49,9 @@ Fix the rays of the sun so that they are dashed.<br/>
      lineWidth=5, dashes=True)`<br/>
 `Line(75, 5, 155, 5, fill=gradient('yellow',  'skyBlue', start='top'),
      lineWidth=5, dashes=True)`<br/>
+* 3.2.2 Scotty Dog<br/>
+`Polygon(130, 60, 150, 140, 150, 70, 170, 130, 260, 130, 220, 150, 325, 160,
+        315, 260, 290, 240, 210, 240, 210, 270, 250, 310, 180, 380, 80, 280,
+        130, 205)`<br/>
+Draw the scarf around the neck.<br/>
+`Polygon(130, 205, 80, 280, 250, 310, 210, 270, fill='red')`<br/>
