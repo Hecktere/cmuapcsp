@@ -91,3 +91,4 @@ Finish the bottom half of the pattern.<br/>
 `Polygon(240, 230, 285, 240, 320, 225, 280, 210, fill='white')`<br/>
 `Polygon(220, 250, 255, 270, 295, 270, 275, 245, fill='white')`<br/>
 `Polygon(290, 245, 305, 265, 325, 250, 320, 235, fill='white')`<br/>
+* 3.2.4 Stick Person Comic- (See 3.2.4.py)[https://github.com/jamxu88/cmuapcsp/blob/main/3.2.4.py]
