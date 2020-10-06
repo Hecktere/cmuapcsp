@@ -55,3 +55,39 @@ Fix the rays of the sun so that they are dashed.<br/>
         130, 205)`<br/>
 Draw the scarf around the neck.<br/>
 `Polygon(130, 205, 80, 280, 250, 310, 210, 270, fill='red')`<br/>
+* 3.2.2 Monarch<br/>
+background<br/>
+`Rect(0, 0, 400, 400, fill=gradient('white', 'skyBlue'))`<br/>
+wings<br/>
+`Rect(110, 130, 200, 130, fill='orange')`<br/>
+`Polygon(190, 100, 200, 80, 210, 100, 210, 285, 200, 330, 190, 285)`<br/>
+`Circle(290, 130, 80)`<br/>
+`Circle(110, 130, 80)`<br/>
+`Oval(270, 240, 150, 100)`<br/>
+`Oval(130, 240, 150, 100)`<br/>
+dots<br/>
+`Circle(99, 68, 7, fill='white')`<br/>
+`Circle(301, 68, 7, fill='white')`<br/>
+`Circle(69, 85, 7, fill='white')`<br/>
+`Circle(331, 85, 7, fill='white')`<br/>
+`Circle(50, 111, 7, fill='white')`<br/>
+`Circle(350, 111, 7, fill='white')`<br/>
+antennae<br/>
+`Line(195, 92, 174, 57)`<br/>
+`Line(205, 92, 226, 57)`<br/>
+top half of the pattern<br/>
+`Polygon(220, 150, 255, 85, 280, 75, 275, 100, fill='orange')`<br/>
+`Polygon(240, 165, 275, 115, 330, 100, 300, 140, fill='orange')`<br/>
+`Polygon(260, 180, 295, 155, 330, 155, 310, 185, fill='orange')`<br/>
+Finish the top half of the pattern.<br/>
+`Polygon(180, 150, 125, 100, 120, 75, 145, 85, fill='orange')`<br/>
+`Polygon(160, 165, 100, 140, 70, 100, 125, 115, fill='orange')`<br/>
+`Polygon(140, 180, 90, 185, 70, 155, 105, 155, fill='orange')`<br/>
+bottom half of the pattern<br/>
+`Polygon(80, 225, 120, 210, 160, 230, 115, 240, fill='white')`<br/>
+`Polygon(180, 250, 125, 245, 105, 270, 145, 270, fill='white')`<br/>
+`Polygon(75, 250, 80, 235, 110, 245, 95, 265, fill='white')`<br/>
+Finish the bottom half of the pattern.<br/>
+`Polygon(240, 230, 285, 240, 320, 225, 280, 210, fill='white')`<br/>
+`Polygon(220, 250, 255, 270, 295, 270, 275, 245, fill='white')`<br/>
+`Polygon(290, 245, 305, 265, 325, 250, 320, 235, fill='white')`<br/>
