@@ -92,3 +92,10 @@ Finish the bottom half of the pattern.<br/>
 `Polygon(220, 250, 255, 270, 295, 270, 275, 245, fill='white')`<br/>
 `Polygon(290, 245, 305, 265, 325, 250, 320, 235, fill='white')`<br/>
 * 3.2.4 Stick Person Comic- [See 3.2.4.py](https://github.com/jamxu88/cmuapcsp/blob/main/3.2.4.py)
+* 3.2.4 Target <br/>
+draw the target<br/>
+`Circle(200, 150, 100, fill='red')`<br/>
+`Circle(200, 150, 70, fill='white')`<br/>
+`Circle(200, 150, 35, fill='red')`<br/>
+You are given the target. Use Label to add the name and complete the logo.<br/>
+`Label('TARGET', 200, 300, fill='red', size=65, bold=True, font='arial')`<br/>
