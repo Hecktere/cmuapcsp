@@ -1,0 +1,7 @@
+Rect(0, 0, 400, 400, fill=gradient('turquoise', 'paleTurquoise'))
+Rect(110, 100, 180, 250, fill='azure')
+Rect(120, 150, 160, 190, fill=gradient('gold', 'yellow', start='bottom'))
+Rect(130, 170, 40, 40, fill=rgb(255, 255, 200))
+Rect(190, 200, 30, 30, fill=rgb(255, 255, 200))
+Rect(240, 50, 50, 10, fill='red')
+Rect(240, 60, 10, 270, fill=gradient('orange', 'orange', 'orange', 'red', start='bottom'))
